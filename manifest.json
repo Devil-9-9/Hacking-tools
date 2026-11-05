@@ -1,0 +1,16 @@
+{
+  "name": "Site Diagnostics Scanner",
+  "short_name": "Diagnostics",
+  "description": "Run non-intrusive header, TLS, exposed-path, and DNS checks against your own site.",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "background_color": "#11161C",
+  "theme_color": "#11161C",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
